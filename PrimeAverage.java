@@ -10,7 +10,7 @@ public class PrimeAverage {
 		inputArray1 = myArray1;
 		inputArray2 = myArray2;
 	}
-
+	//Comentario repo remota
 	public boolean returnPrimeAV() {
 		double aux;
 		double avg1 = 0, avg2 = 0;
